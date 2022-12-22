@@ -5,5 +5,5 @@ tasks:
       cpu: "2"
       memory: 4Gi
     projectid: echo
-    command: python echo.py myoutput
+    runcommand: python echo.py myoutput
     source: {}
