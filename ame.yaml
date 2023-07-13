@@ -1,4 +1,4 @@
-projectid: echo
+name: echo
 tasks:
   - name: echo
     resources:
